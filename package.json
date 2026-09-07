@@ -1,6 +1,6 @@
 {
   "name": "web-source-inspect",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "Zero-integration Chrome extension that maps React DOM elements to JSX/TSX source locations.",
   "main": "src/index.js",
   "scripts": {
